@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+
+<html lang="hu">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-compatible"
+         content="IE=edge">
+        <meta name="viewport"
+         content="width=device-width, 
+         initial-scale=1.0">
+
+        <title>JRShopping</title>
+    </head>
+    <body background="./sad/Névtelen.png">
+        <a href="rólunk.html" target="_blank">
+        
+            <button>elérhetőség</button></a>
+        <center>
+        <div>
+        <h1>JRShopping</h1>
+        <br /><div class="text-align: center;">
+        <p>Hello, ez itt a JRShopping ahol
+         jó minőségű termékeket lehet vásárolni  </p>
+        </div>
+        </center>
+
+
+    </body>
+</html>
+
